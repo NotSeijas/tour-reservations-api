@@ -1,0 +1,13 @@
+### Reserva válida
+POST http://localhost:5085/reservations
+Content-Type: application/json
+
+{
+  "tourId": "inca-trail",
+  "date": "2025-04-10",
+  "tourist": {
+    "age": 45,
+    "nationality": "CAN",
+    "fitnessLevel": "medium"
+  }
+}
