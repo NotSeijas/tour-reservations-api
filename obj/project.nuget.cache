@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YNJfGLz0XNo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\diego\\TourReservations.API\\TourReservations.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
+    "C:\\Users\\diego\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}
